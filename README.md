@@ -1,2 +1,2 @@
-# 30-days---30-projects
+# 30days-30projects
 HTML CSS JS projects
