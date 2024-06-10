@@ -7,6 +7,7 @@ HTML CSS JS projects
 # Day_1 - Weather App
 Search any city Name,  the weather app will show you real-time weather updates.
 The weather app uses a free API from [openweathermap.org] to fetch real-time weather data.
+
 ![Screenshot 2024-06-10 161525](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/cfabf33c-81fd-410d-a736-da1ffe10fe54)
 
 
