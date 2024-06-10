@@ -1,7 +1,9 @@
 # 30days-30projects
 HTML CSS JS projects
-
-** Project Preview **
+---------------------------------------------------------------
+---------------------------------------------------------------
+| # Project Preview |
+---------------------
 # Day_1
 ** Weather App **
 ![Screenshot 2024-06-10 161525](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/cfabf33c-81fd-410d-a736-da1ffe10fe54)
