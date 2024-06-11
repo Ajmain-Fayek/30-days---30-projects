@@ -16,3 +16,7 @@ A simple TO-DO app using js. This app stores tasks and the stage of tasks in you
 ![Screenshot 2024-06-10 010625](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/752c58c6-c191-463d-ad05-fd32a8ec4387)
 
 # Day_3 - Quiz App
+A simple Quiz App. Selecting an answer will disable other options so you can not choose another answer. After selecting an answer then you can proceed to the next question. At the end, you can see your score.
+
+![Screenshot 2024-06-12 010007](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/5f1d3f3e-bb87-4581-acee-7cb1d2d2384a)
+![Screenshot 2024-06-12 024023](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/14807455-e101-4261-99c8-568205b7071f)
