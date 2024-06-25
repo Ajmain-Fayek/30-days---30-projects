@@ -22,7 +22,7 @@ A simple Quiz App. Selecting an answer will disable other options so you can not
 ![Screenshot 2024-06-12 024023](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/14807455-e101-4261-99c8-568205b7071f)
 
 # Day_4 - Random Password Generator
-Straightforward and user-friendly password generator web app.
+Straightforward and user-friendly 12 character password generator web app.
 
 ![Screenshot 2024-06-25 165059](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/b7532522-84e9-4251-ab12-7a82bcc58694)
 ![Screenshot 2024-06-25 165117](https://github.com/Ajmain-Fayek/30days-30projects/assets/87541756/6435ad61-7483-4ce1-bf3d-b8f261a641e9)
