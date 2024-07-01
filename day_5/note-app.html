@@ -3,10 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
     <title>Keep Notes</title>
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    <div class="container">
+        <div class="title_container">
+            <img src="image/notes.png" alt="">
+            <h1 class="title">Notes</h1>
+        </div>
+        <button id="create-note" class="create-note" type="button" title="Create a Now Note"><img src="image/edit.png" alt="">Create note</button>
+        
+        <div class="edit_notes">
+            <p contenteditable="true" class="edit_box">
+                Keep your Notes Here...
+                <img src="image/delete.png" alt="" title="Delete Note">
+            </p>
+            <p contenteditable="true" class="edit_box">
+                Keep your Notes Here...
+                <img src="image/delete.png" alt="" title="Delete Note">
+            </p>
+            <p contenteditable="true" class="edit_box">
+                Keep your Notes Here...
+                <img src="image/delete.png" alt="" title="Delete Note">
+            </p>
+        </div>
+    </div>
     
+<!-- Script Injection -->
+    <script src="main.js"></script>
 </body>
 </html>
