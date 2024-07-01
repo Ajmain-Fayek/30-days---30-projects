@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="image/mist.png" type="image/x-icon">
     <title>The Weather App</title>
     <link rel="stylesheet" href="main.css">
 </head>
@@ -10,25 +11,25 @@
     <div class="card">
         <div class="search">
             <input type="text" name="q=" placeholder="Enter City Name" spellcheck="true">
-            <button><img class="search-img" src="image/search.png" alt="Search"></button>
+            <button type="button" title="Search City Name"><img class="search-img" src="image/search.png" alt="Search"></button>
         </div>
         <div class="error">
             <p>Invalid City Name</p>
         </div>
         <div class="weather">
-            <img class="weather-icon" src="image/clear.png">
+            <img class="weather-icon" src="image/clear.png" alt="">
             <h1 class="tempareture">22&deg;C</h1>
             <h2 class="city">Dhaka</h2>
             <div class="details">
                 <div class="col">
-                    <img src="image/humidity.png">
+                    <img src="image/humidity.png" alt="">
                     <div>
                         <p class="humidity">50%</p>
                         <p>Humidity</p>
                     </div>
                 </div>
                 <div class="col">
-                    <img src="image/wind.png">
+                    <img src="image/wind.png" alt="">
                     <div>
                         <p class="wind">10 kmph</p>
                         <p>Wind Speed</p>
